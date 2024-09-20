@@ -43,4 +43,4 @@ This project implements a chatbot that utilizes OpenAI's models to answer questi
 To run the chatbot interface, execute the following command:
 
 ```bash
-python multiple_pdf-qa-chatbot.py
+python multiple_pdf_qa_chatbot.py
