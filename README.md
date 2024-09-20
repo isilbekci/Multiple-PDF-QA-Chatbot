@@ -25,8 +25,8 @@ This project implements a chatbot that utilizes OpenAI's models to answer questi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
-   cd repo-name
+   git clone https://github.com/isilbekci/Multiple-PDF-QA-Chatbot.git
+   cd Multiple-PDF-QA-Chatbot
 
 2. Install the required packages:
 
@@ -43,4 +43,4 @@ This project implements a chatbot that utilizes OpenAI's models to answer questi
 To run the chatbot interface, execute the following command:
 
 ```bash
-python your_script_name.py
+python multiple_pdf-qa-chatbot.py
